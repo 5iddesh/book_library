@@ -8,6 +8,4 @@
 
 ### TechStack
 
-#### React
-#### Express
-#### MySql
+#### React, Express, MySql
